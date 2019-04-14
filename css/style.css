@@ -1,6 +1,19 @@
 nav{
     background: white;
 }
+.nav-test{
+    font-family: "Open Sans";
+  font-size: 15px;
+  font-weight: 600;
+  color: #45526b;
+}
+.btn-outline-success{
+    background: #50e3c2;
+    font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 600;
+  color: #ffffff;
+}
 .nav-pills li.nav-item.active{
     display: block; 
     background: #6c63ff;
@@ -140,6 +153,29 @@ header{
     font-family: Georgia;
   font-size: 24px;
   letter-spacing: 1.4px;
+}
+.pt-14{
+    font-family: "Open Sans";
+  font-size: 14px;
+  /* font-weight: 600; */
+  letter-spacing: normal;
+  color: #58594f;
+}
+.pt-17{
+    font-family: "Open Sans";
+  font-size: 17px;
+  font-weight: 600;
+  color: #58594f;
+}
+.pt-13{
+    font-family: "Open Sans";
+  font-size: 13px;
+  color: #58594f;
+}
+.pt-10{
+    font-family: "Open Sans";
+  font-size: 10px;
+  color: #58594f;
 }
 @media only screen and (max-width: 576px){
     .p-h1{
