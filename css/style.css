@@ -65,3 +65,10 @@ nav{
     align-content: center;
     justify-content: center;
 }
+.footer a, .footer p{
+    color: #9b9b9b;
+    text-decoration: none;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    letter-spacing: 0.4px;
+}
